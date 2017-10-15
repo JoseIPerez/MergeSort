@@ -3,6 +3,7 @@
 
 using namespace std;
 
+//new function to deal with the sorting
 void merge(int a[], int x[], int s, int e, int m){
     int i = s;
     int j = m + 1;
